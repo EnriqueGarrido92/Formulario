@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+html {
+  font-family: 'Inter', sans-serif;
+}
+
+h1 {
+    font-family: 'Orbitron', sans-serif;
+}
